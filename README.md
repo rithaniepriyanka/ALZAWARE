@@ -44,26 +44,27 @@ VS code editor
 
 ## System Architecture
 
-![image](https://github.com/rithaniepriyanka/ALZAWARE/assets/75235132/8797f39f-3537-4271-8c45-98e617b570f5)
+![Alzaware architecture design](https://github.com/rithaniepriyanka/ALZAWARE/assets/75235132/6533a788-3e7b-4b3e-a461-78536bdf8823)
 
 ## Output
 #### Output1 - HOME PAGE 
 
-![image](https://github.com/rithaniepriyanka/ALZAWARE/assets/75235132/7ec0b894-b87d-46ef-8698-c8fb9ae4938b)
+![Screenshot 2024-03-25 164927](https://github.com/rithaniepriyanka/ALZAWARE/assets/75235132/c4becba0-483d-41ca-8522-a49710f347be)
 
 #### Output2 - SCAN 
 
-![image](https://github.com/rithaniepriyanka/ALZAWARE/assets/75235132/05acd8aa-10db-4e14-a812-4c26a947c950)
+![Screenshot 2024-03-25 165047](https://github.com/rithaniepriyanka/ALZAWARE/assets/75235132/169a1274-df32-4120-ac5a-0b3924acb01f)
 
 #### Output3 - SHIELD
 
-![image](https://github.com/rithaniepriyanka/ALZAWARE/assets/75235132/ecfd406c-054e-4186-a6b4-db67834a55ba)
+![Screenshot 2024-03-25 165132](https://github.com/rithaniepriyanka/ALZAWARE/assets/75235132/a1e0b216-8b4e-4798-aecf-3e44454ffa1e)
 
-#### Output4 - ABOUT DISORDER PAGE 
+#### Output4 - SEEK 
 
-![image](https://github.com/Dhayanitha/MINDSCAN/assets/75235032/e0ed3eb1-916b-4ad8-90bc-fa1ad61c2a8b)
+![Screenshot 2024-03-31 234457](https://github.com/rithaniepriyanka/ALZAWARE/assets/75235132/161a72ce-fa20-4f7f-bf67-3b5fc7a17f9f)
 
-Detection Accuracy: 83%
+
+Detection Accuracy: 93%
 
 ## Results and Impact
 
